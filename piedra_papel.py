@@ -18,7 +18,7 @@ Elige uma Opción
 choice_user = input(choice_txt)
 
 print("Maquina ->",choice_maq)
-print("Usuario ->",choice_user)
+print("Usuario ->git ",choice_user)
 
 if choice_maq == choice_user:
     print("Es un Empate")
